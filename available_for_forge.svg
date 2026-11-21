@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="225" height="52" viewBox="0 0 225 52">
+  <rect x="1.5" y="1.5" width="222" height="49" rx="10" fill="#1e1d1a" stroke="#36342e" stroke-width="2.5" />
+  <g transform="translate(15, 13)" fill="#9ca3af" stroke="#111111" stroke-width="1.2">
+    <polygon points="2,6 26,6 22,12 6,12" />
+    <rect x="10" y="12" width="8" height="7" />
+    <polygon points="6,19 22,19 25,24 3,24" />
+  </g>
+  <text x="54" y="31" fill="#e5e7eb" font-family="system-ui, -apple-system, &#39;Segoe UI&#39;, sans-serif" font-size="15" font-weight="500">
+    Available for <tspan fill="#f59e0b" font-weight="800">Forge</tspan>
+  </text>
+</svg>

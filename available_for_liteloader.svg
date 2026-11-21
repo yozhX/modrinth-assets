@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="52" viewBox="0 0 250 52">
+  <rect x="1.5" y="1.5" width="247" height="49" rx="10" fill="#1e1d1a" stroke="#36342e" stroke-width="2.5" />
+  <g transform="translate(16, 12)">
+    <polygon points="12,2 22,8 22,20 12,26 2,20 2,8" fill="#0ea5e9" stroke="#111111" stroke-width="1.5" />
+    <circle cx="12" cy="14" r="4" fill="#e0f2fe" />
+  </g>
+  <text x="54" y="31" fill="#e5e7eb" font-family="system-ui, -apple-system, &#39;Segoe UI&#39;, sans-serif" font-size="15" font-weight="500">
+    Available for <tspan fill="#38bdf8" font-weight="800">LiteLoader</tspan>
+  </text>
+</svg>
