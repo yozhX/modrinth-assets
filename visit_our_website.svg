@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="225" height="52" viewBox="0 0 225 52">
+  <rect x="1.5" y="1.5" width="222" height="49" rx="10" fill="#141d18" stroke="#253b2f" stroke-width="2.5" />
+  <g transform="translate(16, 13) scale(1.1)" fill="none" stroke="#1bd96a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="10" />
+    <line x1="2" y1="12" x2="22" y2="12" />
+    <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" />
+  </g>
+  <text x="54" y="31" fill="#e5e7eb" font-family="system-ui, -apple-system, &#39;Segoe UI&#39;, sans-serif" font-size="15" font-weight="500">
+    Visit our <tspan fill="#1bd96a" font-weight="800">Website</tspan>
+  </text>
+</svg>
