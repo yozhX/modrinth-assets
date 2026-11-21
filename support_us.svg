@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180">
+  <defs>
+    <filter id="cardShadow" x="-15%" y="-15%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#000000" flood-opacity="0.55" />
+    </filter>
+    <style>
+      .px { font-family: 'Silkscreen', 'Press Start 2P', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-weight: 700; fill: #f8fafc; text-anchor: middle; }
+    </style>
+  </defs>
+  <rect x="14" y="12" width="152" height="152" fill="#2f6f3e" filter="url(#cardShadow)" />
+  <text x="90" y="82" class="px" font-size="18">Support</text>
+  <text x="90" y="112" class="px" font-size="20">Us</text>
+</svg>
